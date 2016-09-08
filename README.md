@@ -5,7 +5,12 @@ Inspired by a [tutorial by Patrick Lester](http://www.policyalmanac.org/games/aS
 
 # DEPENDENCIES
 
-Miscellaneous other libraries from same author, implementing map structure, common geometric calculations and debugging. All are included in this distribution and with same [license](@ref LICENSE.md)
+Miscellaneous other libraries from same author, all included in this distribution and with same [license](@ref LICENSE.md). These are:
+
+- `lash_tree3*.c` - Binary tree that stores generic objects. [Has its own repository on github](https://github.com/nolash/lashTree)
+- `lash_debug*.c` - Simple timer and log functions for development and benchmarking.
+- `lash_game_standard.c` - Common geometric and trigonometric functions used in 2D games
+- `lash_game_map.c` - Simple layered tile map implementation
 
 # BUILD
 
