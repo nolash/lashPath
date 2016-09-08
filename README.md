@@ -27,8 +27,8 @@ It also contains a timer outputting amounts of ticks (`CLOCK_PROCESS_CPUTIME`) t
 
 #### Usage
 
-pathsimpledemo_bin -w mapwidth -h mapheight -r movement_range -c test_runs
-pathsimpledemo_bin -f path_to_saved_mapfile -c test_runs
+    pathsimpledemo_bin -w mapwidth -h mapheight -r movement_range -c test_runs
+    pathsimpledemo_bin -f path_to_saved_mapfile -c test_runs
 
 __movement_range__ clips a portion of the map equivalent to __movement_range * 2__ centered on the start location.
 
