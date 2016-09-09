@@ -1,4 +1,4 @@
-Small pathfinder library for 2d tilemaps	{#mainpage}
+Small pathfinding library for 2d tilemaps	{#mainpage}
 ========================================
 
 Inspired by a [tutorial by Patrick Lester](http://www.policyalmanac.org/games/aStarTutorial.htm), this library aims to be a slim and fast implementation of pathfinding routines for 2D tilemaps, primarily intended for use in games.
