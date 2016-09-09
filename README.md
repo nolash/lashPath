@@ -3,7 +3,7 @@ Small pathfinder library for 2d tilemaps	{#mainpage}
 
 Inspired by a [tutorial by Patrick Lester](http://www.policyalmanac.org/games/aStarTutorial.htm), this library aims to be a slim and fast implementation of pathfinding routines for 2D tilemaps, primarily intended for use in games.
 
-It currently implements a simple A* (A-star) algorithm, and is able to find the shortest way between two points in a labyrinth of spaces defined as either passable or impassable.
+It currently implements a simple __A* (A-star) algorithm__, and is able to find the shortest way between two points in a labyrinth of spaces defined as either passable or impassable.
 
 # DEPENDENCIES
 
